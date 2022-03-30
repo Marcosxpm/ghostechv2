@@ -92,7 +92,7 @@ img {
   position: relative;
   z-index: 2;
 }
-
+/*continuação services*/
 .overlay {
   position: absolute;
   width: 100%;
@@ -100,7 +100,7 @@ img {
   overflow: hidden;
   top: 0;
   left: 0;
-  background-image: -webkit-linear-gradient(10deg,#2b67e9,#2b67e9,#fc04c6);
+  background-color: #fc04c6 ;
 }
 
 .overlay .shape {
@@ -532,8 +532,9 @@ header .circle {
 /*Por comprar nossos serviços*/
 .services-section{
 padding-top: 50px;
-background: url(/img/bgsection2.png);
+background-color: #fff;
 max-width: 100%;
+background-image: url(/img/Cópia\ de\ Web\ site\ games\ word.png);
 
   
 }
@@ -700,7 +701,7 @@ max-width: 100%;
   position: relative;
   width: 100%;
   background-color: var(--light-two);
-  background-image: -webkit-linear-gradient(14deg,#2b67e9,#fc04c6);
+  background-color: #000123 ;
 }
 
 .background-bg {
@@ -709,8 +710,7 @@ max-width: 100%;
   height: 520px;
   top: 0;
   left: 0;
-  background-color: var(--main-color);
-  background-image: -webkit-linear-gradient(14deg,#2b67e9,#fc04c6);
+  background-color: #2b67e9;
 }
 
 .portfolio .title,
@@ -826,7 +826,7 @@ max-width: 100%;
   left: 0;
   z-index: 2;
   color: var(--light-one);
-  background-color: rgba(251, 76, 178, 0.55);
+  background-color: rgba(6, 12, 102, 0.555);
   display: flex;
   flex-direction: column;
   align-items: center;
