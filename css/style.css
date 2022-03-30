@@ -289,10 +289,7 @@ img {
 
 header {
   width: 100%;
-<<<<<<< HEAD
   background-image: -webkit-linear-gradient(14deg,#2b67e9,#fc04c6);
-=======
->>>>>>> 103605c (segundo commit)
   overflow: hidden;
   position: relative;
 }
@@ -535,15 +532,10 @@ header .circle {
 /*Por comprar nossos serviços*/
 .services-section{
 padding-top: 50px;
-<<<<<<< HEAD
-background: url(/img/Cópia\ de\ Web\ site\ games\ word.png);
+background: url(/img/bgsection2.png);
 max-width: 100%;
 
   
-=======
-background-image: url(/img/bgsection2.png);
-max-width: 100%;
->>>>>>> 103605c (segundo commit)
 }
 .text-2 {
   font-size: 1.0rem;
@@ -556,8 +548,7 @@ max-width: 100%;
   width: 100%;
   max-width: 20000px;
   min-height: 10px;
-<<<<<<< HEAD
-  background-image: -webkit-linear-gradient(14deg,#2b67e9,#fc04c6);
+  background-color:#2b67e9;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -565,13 +556,6 @@ max-width: 100%;
   padding: 3rem 2rem;
   overflow: hidden;
   transition: 0.3s;
-=======
-  background:#2b67e9;
-  align-items: center;
-  text-align: center;
-  padding: 3rem 2rem;
-  overflow: hidden;
->>>>>>> 103605c (segundo commit)
   border-radius: 20px;
   color: #fffefe;
 }
@@ -644,6 +628,7 @@ max-width: 100%;
   overflow: hidden;
   transition: 0.3s;
   border-radius: 20px;
+  box-shadow: 0 0 0 15px rgba(36, 35, 34, 0.5);
 }
 
 .card:before {
@@ -715,10 +700,7 @@ max-width: 100%;
   position: relative;
   width: 100%;
   background-color: var(--light-two);
-<<<<<<< HEAD
   background-image: -webkit-linear-gradient(14deg,#2b67e9,#fc04c6);
-=======
->>>>>>> 103605c (segundo commit)
 }
 
 .background-bg {
@@ -728,11 +710,7 @@ max-width: 100%;
   top: 0;
   left: 0;
   background-color: var(--main-color);
-<<<<<<< HEAD
   background-image: -webkit-linear-gradient(14deg,#2b67e9,#fc04c6);
-=======
-  background-image:#2b67e9;
->>>>>>> 103605c (segundo commit)
 }
 
 .portfolio .title,
@@ -910,7 +888,6 @@ max-width: 100%;
 
 /* End Portfolio */
 
-<<<<<<< HEAD
 /* About */
 
 .about {
@@ -984,8 +961,6 @@ max-width: 100%;
 
 /* End About */
 
-=======
->>>>>>> 103605c (segundo commit)
 /* Records */
 
 .records {
@@ -1834,11 +1809,7 @@ max-width: 100%;
     max-width: 290px;
     padding: 2.2rem 1.5rem;
     background: rgb(2, 2, 2);
-<<<<<<< HEAD
     box-shadow: #0c0c0c 0px 5px 20px;
-=======
-    box-shadow: 0 0 20px rgb(46, 44, 44);
->>>>>>> 103605c (segundo commit)
   }
 
   .icon {
@@ -1906,7 +1877,6 @@ max-width: 100%;
     font-size: 0.7rem;
   }
 
-<<<<<<< HEAD
   .about img {
     max-width: 420px;
   }
@@ -1937,8 +1907,6 @@ max-width: 100%;
     left: 65%;
   }
 
-=======
->>>>>>> 103605c (segundo commit)
   .record-circle {
     width: 150px;
     height: 150px;
