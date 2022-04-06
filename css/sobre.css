@@ -1,0 +1,84 @@
+* {box-sizing: border-box;
+    
+}
+/* inicio sobre*/
+.sobre{
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+.techs{
+    display: flex;
+    margin-left:2vh;
+    margin-right:2vh;
+    background-color: #000123;
+    border-radius: 0 0 20px 20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+
+}
+.github{
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-size: 20px;
+}
+.linkedin{
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding: 10px;
+}
+.bg-perfil{
+    display: flex;
+    margin-left:2vh;
+    margin-right:2vh;
+    background-color: #000123;
+    border-radius:20px 20px 0 0;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.perfil{
+    border-radius: 50%;
+    padding: 0;
+    margin: 2rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(122,1,171,1) 0%, rgba(76,99,210,1) 35%, rgba(122,1,171,1) 100%);
+    display: flex;
+    justify-content: center;
+}
+.perfil img{
+    background-size: 20px;
+    background-repeat: no-repeat;
+
+}
+.info-perfil{
+    display: flex;
+    margin-left:2vh;
+    margin-right:2vh;
+    background-color: #000123;
+    border-radius:0 0 0 0;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .nome-info-perfil{
+    color: #2b67e9;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+    text-shadow:rgba(19, 11, 241, 0.99) 0px 0px 19px;
+  
+  }
+  .sub-nome-info{
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+  }
+  .img-sobre{
+    border-radius: 20px;
+    margin: 2vh;
+  }
+/*end sobre*/
