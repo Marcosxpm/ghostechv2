@@ -55,6 +55,7 @@ img {
   overflow: hidden;
 }
 video{
+  margin-top: 20vh;
   border-radius: 20px;
 }
 .grid-2 {
