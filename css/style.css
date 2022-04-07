@@ -137,6 +137,8 @@ img {
   background: linear-gradient(90deg, rgba(122,1,171,1) 0%, rgba(76,99,210,1) 35%, rgba(122,1,171,1) 100%);
   display: flex;
   justify-content: center;
+  height: 12rem;
+  width: 12rem;
 }
 .perfil img{
   background-size: 20px;
