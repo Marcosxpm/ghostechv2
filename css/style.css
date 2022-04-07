@@ -54,7 +54,9 @@ img {
   height: 100%;
   overflow: hidden;
 }
-
+video{
+  border-radius: 20px;
+}
 .grid-2 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
