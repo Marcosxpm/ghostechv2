@@ -631,7 +631,7 @@ background-image: url(/img/Cópia\ de\ Web\ site\ games\ word.png);
   overflow: hidden;
   transition: 0.3s;
   border-radius: 20px;
-  box-shadow: 0 0 0 15px rgba(36, 35, 34, 0.5);
+  box-shadow: 0 0 0 25px rgba(36, 35, 34, 0.5);
 }
 
 .card:before {
